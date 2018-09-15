@@ -1,0 +1,1 @@
+Git Pages website can be found here: https://tylerhaigh.github.io/example-smart-app/
